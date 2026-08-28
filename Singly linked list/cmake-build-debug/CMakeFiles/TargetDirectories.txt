@@ -1,0 +1,3 @@
+A:/C_and_C++/Algorithms/Singly linked list/cmake-build-debug/CMakeFiles/Singly_linked_list.dir
+A:/C_and_C++/Algorithms/Singly linked list/cmake-build-debug/CMakeFiles/edit_cache.dir
+A:/C_and_C++/Algorithms/Singly linked list/cmake-build-debug/CMakeFiles/rebuild_cache.dir
